@@ -6,6 +6,7 @@
  - commits20.csv: all commits from the 20 most popular repos
 
  - data_mining_github.ipynb: notebook with the procedure
+ - commits_lang.csv: final dataset joing the above information
 
  The languages found with the given query were:
  1 - JavaScript
