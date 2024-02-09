@@ -9,8 +9,8 @@
  - commits_lang.csv: final dataset joing the above information
 
  The languages found with the given query were:
- 1 - JavaScript
- 2 - Ruby
- 3 - Python
- 4 - PHP
- 5 - Java
+ 1) JavaScript
+ 2) Ruby
+ 3) Python
+ 4) PHP
+ 5) Java
